@@ -1,16 +1,22 @@
 # Proyecto-final
 En este apartado se muestran los archivos que corresponden al proyecto final del diplomado.
 
-Introducci+on:
+Introduccion:
+
 Las aves son organismos que contribuyen a muchas funciones de los ecosistemas que favorecen la resiliencia de los bosques.
+
 La Faja Volcánica Transversal tiene una gran complejidad geológica, topográfica y una diversidad de climas, alberga cerca del 40 % de especies de aves de México y es importante como sitio de residencia y paso para aves migratorias.
 
-Justificación
+Justificación.
+
 Conocer la diversidad de las aves y cómo se relacionan con su entorno puede contribuir a la comprensión de los ecosistemas, lo cual tiene gran relevancia para determinar el manejo adecuado para las áreas naturales y su conservación, lo cual finalmente, influye directamente en el equilibrio necesario para el correcto funcionamiento de actividades agrarias, alimentarias, productivas y económicas.
 
 Objetivos de análisis (Preguntas que queremos responder)
+
 ¿Cuál es el hábitat donde se encuentra el mayor número de especies?
+
 ¿Cuáles son las especies más abundantes en el área de estudio?
+
 ¿Existe una correlación entre las distintas medidas morfométricas
 
 •	Selección de la base de datos
@@ -25,7 +31,8 @@ Estadistica descriptiva: se muestran algunos hallazgos estadisticos:
 
 
 
-Conclusiones
+Conclusiones:
+
 El Bosque Mesófilo de Montaña es el sitio que presenta un mayor número de especies.
 Las especies más abundantes son Eugenes fulgens, Basilinna leucotis y Saucerottia beryllina.
 
@@ -41,7 +48,8 @@ Por otro lado, los resultados morfométricos nos indican que en esta área se en
 En abril y enero el número de especies fue más elevado, lo que, al ser los meses de temporada migratoria.
 
 
-Recomendaciones para análisis futuros
+Recomendaciones para análisis futuros:
+
 Desarrollar un análisis de datos complementario utilizando Excel, Python, SQL para comparar y confirmar los resultados obtenidos.
 
 Generar mayor número de estadísticos y de gráficos para caracterizar más a detalle las especies en estudio.
