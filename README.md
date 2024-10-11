@@ -26,22 +26,30 @@ Estadistica descriptiva: se muestran algunos hallazgos estadisticos:
 
 
 Conclusiones
-El Bosque Mesófilo de Montaña es el sitio que presenta un mayor número de especies
-Las especies más abundantes son Eugenes fulgens, Basilinna leucotis y Saucerottia beryllina
+El Bosque Mesófilo de Montaña es el sitio que presenta un mayor número de especies.
+Las especies más abundantes son Eugenes fulgens, Basilinna leucotis y Saucerottia beryllina.
+
 Existen correlaciones entre algunas medidas:
-Entre el peso de las aves y la longitud del ala, a mayor peso, mayor longitud del ala
+
+Entre el peso de las aves y la longitud del ala, a mayor peso, mayor longitud del ala.
+
 Entre el ancho del pico de las aves y la altura del pico a mayor anchura del pico, mayor altura del pico.
 ![correl posit](https://github.com/user-attachments/assets/7bf61e20-4eea-46f1-bec3-b09939b38f2d)
 
-Por otro lado, los resultados morfométricos nos indican que en esta área se encuentran aves pequeñas
+Por otro lado, los resultados morfométricos nos indican que en esta área se encuentran aves pequeñas.
+
 En abril y enero el número de especies fue más elevado, lo que, al ser los meses de temporada migratoria.
 
 
 Recomendaciones para análisis futuros
 Desarrollar un análisis de datos complementario utilizando Excel, Python, SQL para comparar y confirmar los resultados obtenidos.
+
 Generar mayor número de estadísticos y de gráficos para caracterizar más a detalle las especies en estudio.
-Publicar los hallazgos como artículo de investigación científica en revista indexada para contribuir al conocimiento general de las aves
+
+Publicar los hallazgos como artículo de investigación científica en revista indexada para contribuir al conocimiento general de las aves.
+
 Explorar a fondo la literatura existente (artículos científicos, libros, páginas web, etc.)  para encontrar investigaciones ya realizadas y datos que nos pudieran servir de base en nuestro análisis.
+
 Revisar investigaciones y bases de datos similares para ver el comportamiento de las mismas especies de aves o especies similares y de éste modo comparar los estudios con el nuestro.
 
 
