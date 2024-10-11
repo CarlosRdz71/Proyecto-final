@@ -19,6 +19,7 @@ Se realizaron muestreos en cuatro fechas distintas del año 2022 en cuatro tipos
 
 ![LIMPIEZA BD](https://github.com/user-attachments/assets/0a6c08a0-4d81-456c-8af1-cfcd39600b64)
 
+
 Estadistica descriptiva: se muestran algunos hallazgos estadisticos:
 ![estadistica desc](https://github.com/user-attachments/assets/4f7f0593-e43a-4995-b69b-a03d528a86e7)
 
@@ -31,7 +32,6 @@ Conclusiones
 •	Entre el peso de las aves y la longitud del ala, a mayor peso, mayor longitud del ala
 •	Entre el ancho del pico de las aves y la altura del pico a mayor anchura del pico, mayor altura del pico.
 ![correl posit](https://github.com/user-attachments/assets/7bf61e20-4eea-46f1-bec3-b09939b38f2d)
-
 
 •	Por otro lado, los resultados morfométricos nos indican que en esta área se encuentran aves pequeñas
 •	En abril y enero el número de especies fue más elevado, lo que, al ser los meses de temporada migratoria.
