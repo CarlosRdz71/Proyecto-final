@@ -20,8 +20,10 @@ Objetivos de análisis (Preguntas que queremos responder)
 ¿Existe una correlación entre las distintas medidas morfométricas
 
 •	Selección de la base de datos
+
 Se realizaron muestreos en cuatro fechas distintas del año 2022 en cuatro tipos diferentes de hábitat de la zona de la FVT que se ubica en el estado de Jalisco. Se tomaron medidas morfométricas que se relacionan con la historia de vida de las aves.
-•	En cuanto a la limpieza de datos, de acuerdo con lo visto en las clases de R, se identificaron y eliminaron los registros de los datos nulos, quedando finalmente 188 registros de 221 originales.
+
+En cuanto a la limpieza de datos, de acuerdo con lo visto en las clases de R, se identificaron y eliminaron los registros de los datos nulos, quedando finalmente 188 registros de 221 originales.
 
 ![LIMPIEZA BD](https://github.com/user-attachments/assets/0a6c08a0-4d81-456c-8af1-cfcd39600b64)
 
